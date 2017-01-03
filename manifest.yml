@@ -1,0 +1,8 @@
+---
+name: AdditiveManufacturingSim
+description: |-
+  **AdditiveManufacturingSIM** simulates the transient thermal history of the
+  Powder Bed Fusion Additive Manufacturing process for a range of geometries,
+  materials and laser beam parameters.
+category: AltaSim Technologies
+url: /pun/sys/vncsim/%{app_token}/sessions
