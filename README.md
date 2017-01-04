@@ -1,5 +1,8 @@
 # Batch Connect - AweSim AltaSim AdditiveManufacturingSim
 
+![GitHub Release](https://img.shields.io/github/release/osc/bc_awesim_altasim_addman.svg)
+![GitHub License](https://img.shields.io/github/license/osc/bc_awesim_altasim_addman.svg)
+
 A VNCSim app used for launching AltaSim's AdditiveManufacturingSim app within a
 COMSOL Server ([bc_comsol_server](https://github.com/OSC/bc_comsol_server)).
 
