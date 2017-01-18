@@ -1,6 +1,6 @@
-title: 'AdditiveManufacturingSim'
+title: 'AMThermSIM'
 shared:
-  - name: 'AdditiveManufacturingSim'
+  - name: 'AMThermSIM'
     batch: 'quick'
     cluster: 'oakley'
     node:

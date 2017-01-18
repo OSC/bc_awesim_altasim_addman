@@ -3,7 +3,7 @@
   "authors": [
     "Jeremy Nicklas <jnicklas@osc.edu>"
   ],
-  "description": "Batch Connect - AweSim AltaSim AdditiveManufacturingSim",
+  "description": "Batch Connect - AweSim AltaSim AMThermSim",
   "main": "",
   "license": "MIT",
   "homepage": "https://github.com/OSC/bc_awesim_altasim_addman",
