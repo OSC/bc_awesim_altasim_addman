@@ -1,5 +1,7 @@
 ## Unreleased
 
+## 0.0.2 (2017-01-18)
+
 Features:
 
   - changed app name to AMThermSIM
