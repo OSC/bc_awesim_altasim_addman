@@ -1,8 +1,14 @@
 ---
 name: AMThermSIM
-description: |-
+category: AltaSim Technologies
+role: batch_connect
+description: |
+  This app will launch [COMSOL Server] 5.2a Update 3 on a shared node with
+  access to the following [AltaSim] app:
+
   **AMThermSIM** simulates the transient thermal history of the Powder Bed
   Fusion Additive Manufacturing process for a range of geometries, materials
   and laser beam parameters.
-category: AltaSim Technologies
-url: /pun/sys/vncsim/%{app_token}/sessions
+
+  [COMSOL Server]: https://www.comsol.com/comsol-server
+  [AltaSim]: http://www.altasimtechnologies.com/

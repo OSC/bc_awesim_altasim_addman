@@ -1,18 +1,28 @@
-## Unreleased
+# Changelog
+All notable changes to this project will be documented in this file.
 
-## 0.0.3 (2017-02-14)
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-Features:
+## [Unreleased]
+### Changed
+- Completely refactored to be an Interactive App (Dashboard Plugin).
 
-  - use latest version of COMSOL Server
-  - take advantage of proxy for connecting to server
+## [0.0.3] - 2017-02-14
+### Added
+- Add support to use OOD proxy for connecting to COMSOL Server.
 
-## 0.0.2 (2017-01-18)
+### Changed
+- Update to latest version of COMSOL Server.
 
-Features:
+## [0.0.2] - 2017-01-18
+### Changed
+- Changed the name of the app to AMThermSIM.
 
-  - changed app name to AMThermSIM
+## 0.0.1 - 2017-01-03
+### Added
+- Initial release!
 
-## 0.0.1 (2017-01-03)
-
-Initial release!
+[Unreleased]: https://github.com/OSC/bc_awesim_altasim_addman/compare/v0.0.3...HEAD
+[0.0.3]: https://github.com/OSC/bc_awesim_altasim_addman/compare/v0.0.2...v0.0.3
+[0.0.2]: https://github.com/OSC/bc_awesim_altasim_addman/compare/v0.0.1...v0.0.2
