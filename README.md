@@ -1,7 +1,7 @@
 # Batch Connect - AweSim AltaSim AMThermSim
 
 ![GitHub Release](https://img.shields.io/github/release/osc/bc_awesim_altasim_addman.svg)
-![GitHub License](https://img.shields.io/github/license/osc/bc_awesim_altasim_addman.svg)
+[![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 An interactive app designed for AweSim that launches a COMSOL Server with
 access to AltaSim's AMThermSim within a Quick batch job.
