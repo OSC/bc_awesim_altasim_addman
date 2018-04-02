@@ -6,6 +6,3 @@ description: |
   Simulates the transient thermal history of the Powder Bed Fusion Additive
   Manufacturing process for a range of geometries, materials and laser beam
   parameters.
-
-  [COMSOL Server]: https://www.comsol.com/comsol-server
-  [AltaSim]: http://www.altasimtechnologies.com/
